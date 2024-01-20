@@ -1,0 +1,11 @@
+.LightMode {
+  background-color: azure;
+  color: black;
+  text-align: center;
+}
+
+.DarkMode {
+  background-color: black;
+  color: azure;
+  text-align: center;
+}
